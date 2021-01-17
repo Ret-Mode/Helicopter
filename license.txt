@@ -1,0 +1,4 @@
+Phaser3 game engine:
+
+MIT
+https://phaser.io/download/license

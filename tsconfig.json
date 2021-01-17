@@ -1,0 +1,20 @@
+{
+  // Change this to match your project
+  "files": ["src/index.ts", "src/Scene1.ts"],
+
+  "compilerOptions": {
+    "target": "ES6",
+    "strict": true,
+    "allowJs": true,
+    // Generate d.ts files
+    // "declaration": true,
+    "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "sourceMap": true,
+    "outDir": "bld",
+    "types": ["./src/phaser"]
+  },
+
+  "compileOnSave": true
+}
